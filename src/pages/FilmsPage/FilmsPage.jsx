@@ -1,4 +1,3 @@
-import styles from './films-page.module.css';
 import SearchFilms from 'components/SearchFilm/SearchFilm';
 
 const FilmsPage = () => {

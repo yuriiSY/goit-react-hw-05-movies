@@ -1,5 +1,3 @@
-import { Link } from 'react-router-dom';
-
 const ReviewsListItem = ({ item }) => {
   return (
     <li className="ReviewsItem">

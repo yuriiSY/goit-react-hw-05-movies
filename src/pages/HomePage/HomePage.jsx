@@ -1,7 +1,5 @@
 import TrendFilms from 'components/TrendFilms/TrendFilms';
 
-import styles from './home-page.module.css';
-
 const HomePage = () => {
   return (
     <div>
